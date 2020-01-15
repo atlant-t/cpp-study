@@ -32,7 +32,7 @@ $(STNDART_TARGETS):
 	done || /bin/true;
 
 
-.PHONY: $(__PHONY) variables-file
+.PHONY: $(__PHONY)
 
 .variables:
 	@echo "$$IMPORTED_VARIABLES" > .variables

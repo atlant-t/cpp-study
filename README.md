@@ -17,3 +17,4 @@ Try using [File]->[New]->[Project From Existing Code...] and select the lesson f
 
 - [Tutorials to help you master C++ and object-orientated programing](learncpp.com)
 - [Managing Projects with GNU Make, Third Edition](https://www.oreilly.com/openbook/make3/book/index.csp)
+- [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#es20-always-initialize-an-object)
